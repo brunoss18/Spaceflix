@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Recriei a interface do principal site de streaming mundial utilizando as seguintes tecnologias  HTML5, CSS3 e JavaScript. 
-Utilizei técnicas de CSS3 com containers e variáveis,  posicionei os elementos com Flexbox e  tambem utilizei plugins Jquery.
+Utilizei técnicas de CSS3 com containers e variáveis,  posicionei os elementos com Flexbox e  também utilizei plugins Jquery.
 
 
 
