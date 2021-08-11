@@ -1,9 +1,9 @@
 
 <h1 align="center">
-  Spaceflix
+  Spaceflix 🪐
 </h1>
 <h3 align="center">
-  Recriei a interface do Netflix
+  Recriei a interface do Netflix 💻
   </h3>
 
 <p align="center">
