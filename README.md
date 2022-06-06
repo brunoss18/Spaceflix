@@ -35,5 +35,6 @@ Utilizei técnicas de CSS3 com containers e variáveis,  posicionei os elementos
 
 ## 🔖 Layout
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f47e473c7e20cff51c8e0eba3afd72be.gif" width="450" height="228" border="0" alt="https://picasion.com/" /></a><br />
+Acesse o link a seguir para visualizar: https://spaceflix.netlify.app/
 
 Feito com ♥ by Bruno Soares 👋🏽
